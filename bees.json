@@ -1,0 +1,9 @@
+{
+    "bees" : [
+        {
+            "name" : "test",
+            "description" : "lol",
+            "rarity" : "Uknonw"
+        }
+    ]
+}
